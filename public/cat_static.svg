@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Placeholder chat — remplacer par votre vrai asset cat_static.png -->
+  <!-- Corps -->
+  <circle cx="100" cy="120" r="55" fill="#666"/>
+  <!-- Oreilles -->
+  <polygon points="60,75 45,25 85,60" fill="#666"/>
+  <polygon points="140,75 155,25 115,60" fill="#666"/>
+  <polygon points="63,70 52,35 82,60" fill="#555"/>
+  <polygon points="137,70 148,35 118,60" fill="#555"/>
+  <!-- Yeux -->
+  <circle cx="78" cy="108" r="12" fill="#fff"/>
+  <circle cx="122" cy="108" r="12" fill="#fff"/>
+  <circle cx="78" cy="108" r="7" fill="#111"/>
+  <circle cx="122" cy="108" r="7" fill="#111"/>
+  <circle cx="80" cy="105" r="3" fill="#fff"/>
+  <circle cx="124" cy="105" r="3" fill="#fff"/>
+  <!-- Nez -->
+  <ellipse cx="100" cy="125" rx="5" ry="3.5" fill="#f8a"/>
+  <!-- Bouche -->
+  <path d="M92,132 Q100,140 108,132" fill="none" stroke="#999" stroke-width="2"/>
+  <!-- Moustaches -->
+  <line x1="35" y1="115" x2="70" y2="120" stroke="#888" stroke-width="1.5"/>
+  <line x1="35" y1="128" x2="70" y2="128" stroke="#888" stroke-width="1.5"/>
+  <line x1="165" y1="115" x2="130" y2="120" stroke="#888" stroke-width="1.5"/>
+  <line x1="165" y1="128" x2="130" y2="128" stroke="#888" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,7 @@
+{
+  "name": "oiia-oiia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
